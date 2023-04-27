@@ -4,3 +4,5 @@ Oscar is my name
 **this is bold**
 
 lets aadd something else
+
+this is an "italic"
