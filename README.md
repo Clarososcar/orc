@@ -5,4 +5,4 @@ Oscar is my name
 
 lets aadd something else
 
-this is an 'italic'
+this is an *italic*
